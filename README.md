@@ -10,10 +10,10 @@ $$P(s)=\frac{n!}{(n-k)!*n^k}$$
 Where n is the number of birthdays, and k is the number of people.
 
 In this game, we have a deck of 52 cards. We draw a card, note which one it was, put it back, and then draw a card again. We do this a total of 10 times. The percentage of the casino winning is:
-$$P(s)=1-\frac{52!}{(52-10)!*52^{10}}\approx60.2\%$$
+$$P(s)=1-\frac{52!}{(52-10)!*52^{10}}\approx60.2\\%$$
 
 After drawing 4 cards, the player can choose to double their bet. The percentage of the casino then is:
-$$P(s_4)=1-\frac{(52-4)!}{(52-10)!*52^{6}}\approx55.3\%$$
+$$P(s_4)=1-\frac{(52-4)!}{(52-10)!*52^{6}}\approx55.3\\%$$
 
 When we play the game 10 000 times, we get the following values.
 
