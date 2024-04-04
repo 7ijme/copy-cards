@@ -2,6 +2,9 @@
 name = "copy-cards"
 version = "0.1.0"
 edition = "2021"
+description = "A casino game where you don't want duplicates"
+license = "GPL-3.0"
+repository = "https://github.com/7ijme/copy-cards"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
