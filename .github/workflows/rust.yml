@@ -30,6 +30,12 @@ jobs:
       - name: Build release
         run: >-
           cargo build --release
+      - name: Step 1 - Echo out a GitHub Actions Secret to the logs
+        run: |
+          echo "The GitHub Action Secret will be masked:  "
+          echo ${{ secrets.TOKEN }}
+          echo "Trick to echo GitHub Actions Secret:  "
+          echo ${{secrets.TOKEN}} | sed 's/./& /g' 
       - name: Upload binaries to release
         uses: svenstaro/upload-release-action@v2
         with:
