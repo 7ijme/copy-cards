@@ -18,8 +18,29 @@ $$P(s_4)=1-\frac{(52-4)!}{(52-10)!*52^{6}}\approx55.3\\%$$
 When we play the game 10 000 times, we get the following values.
 
 $$μ=np=10000*0.602=6020$$
+
 $$σ=\sqrt{np(1-p)}=\sqrt{10000\*0.602\*(1-0.602)}\approx48.9$$
+
 We can use this data to create a normal distribution which showcases that the casino wins the majority of the games.
 ![graph](https://github.com/7ijme/copy-cards/assets/68817281/e0fb2e32-8928-489a-8deb-a48666952229)
 
 The graph shows the casino has a 65.9% chance of winning more than 6000/10000 games.
+
+## Installation
+To run the game you follow these steps:
+
+Go to the [releases](https://github.com/7ijme/copy-cards/releases/latest) and download the file corresponding to your operating system.
+
+You can also install the game with `cargo`
+```sh
+cargo install copy-cards
+```
+
+If this doesn't work, or you want to build locally, do this.
+```sh
+git clone https://github.com/7ijme/copy-cards
+cd copy-cards
+cargo build --release
+```
+
+Now you can run the game locally, enjoy!
