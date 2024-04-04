@@ -1,35 +1,53 @@
-# .github/workflows/build.yml
-name: Build
+name: Build on Main Branch
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   build:
-    name: Build
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+
     strategy:
-      fail-fast: false
       matrix:
-        include:
-          - target: x86_64-pc-windows-gnu
-            archive: zip
-          - target: x86_64-unknown-linux-musl
-            archive: tar.gz tar.xz tar.zst
-          - target: x86_64-apple-darwin
-            archive: zip
+        os: [windows-latest, ubuntu-latest]
+
     steps:
-      - uses: actions/checkout@master
-      - name: Compile and release
-        uses: rust-build/rust-build.action@v1.4.5
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js (if applicable)
+        if: matrix.os == 'ubuntu-latest' && steps.node-version.outputs.node-version
+        uses: actions/setup-node@v2
         with:
-          RUSTTARGET: ${{ matrix.target }}
-          ARCHIVE_TYPES: ${{ matrix.archive }}
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
+          node-version: '20'
+
+      - name: Install dependencies
+        if: matrix.os == 'ubuntu-latest'
+        run: npm install
+
+      - name: Build project
+        if: matrix.os == 'ubuntu-latest'
+        run: npm run build
+
+      - name: Set up MSYS2 (if applicable)
+        if: matrix.os == 'windows-latest'
+        uses: actions/setup-msys2@v1
+
+      - name: Install dependencies on Windows
+        if: matrix.os == 'windows-latest'
+        run: |
+          pacman -Syu --noconfirm
+          pacman -S --noconfirm make mingw-w64-x86_64-gcc
+
+      - name: Build project on Windows
+        if: matrix.os == 'windows-latest'
+        run: npm run build:windows
+
+      - name: Archive artifacts
+        uses: actions/upload-artifact@v2
         with:
-          name: Binary
+          name: built-artifacts
           path: |
-            RUSTTARGET: ${{ matrix.target }}
-            ARCHIVE_TYPES: ${{ matrix.archive }}
+            ${{ matrix.os == 'windows-latest' ? 'path/to/windows/artifacts' : 'path/to/linux/artifacts' }}
