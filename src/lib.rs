@@ -92,7 +92,7 @@ impl Display for Card {
     }
 }
 
-#[derive(Debug, Clone)]
+#[derive(Debug, Clone, Default)]
 pub struct Deck {
     cards: Vec<Card>,
 }

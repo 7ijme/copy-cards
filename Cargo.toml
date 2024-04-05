@@ -1,6 +1,6 @@
 [package]
 name = "copy-cards"
-version = "0.1.0"
+version = "1.1.0"
 edition = "2021"
 description = "A casino game where you don't want duplicates"
 license = "GPL-3.0"
@@ -13,4 +13,6 @@ name = "copy-cards"
 path = "src/main.rs"
 
 [dependencies]
+crossterm = "0.27.0"
 rand = "0.8.4"
+ratatui = "0.26.1"

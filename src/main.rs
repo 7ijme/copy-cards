@@ -1,66 +1,229 @@
 use copy_cards::{Card, Deck};
+use crossterm::{
+    event::{self, Event, KeyCode, KeyEvent, KeyEventKind},
+    terminal,
+};
+use ratatui::{
+    prelude::*,
+    symbols::{block, border},
+    widgets::{block::*, *},
+};
+use std::{fmt::format, io};
 
-fn main() {
-    let mut deck = Deck::new();
-    deck.shuffle();
+mod tui;
 
-    let mut money = 100;
-    let mut game_count = 0;
+fn main() -> io::Result<()> {
+    let mut terminal = tui::init()?;
+    let app_result = App::default().run(&mut terminal);
+    tui::restore()?;
+    app_result
+}
 
-    println!("Welcome to the game of Copy Cards!");
-    println!("In this game, you will draw 10 cards from a deck of 52 cards.");
-    println!("If there are any duplicate cards, you lose!");
-    println!("You start with $100. Each round costs $10 to play.");
-    println!("After the 4th card is drawn, you can choose to double your bet.");
-    println!("Ready for your first card?");
+#[derive(Debug, Default)]
+pub struct App {
+    money: u8,
+    exit: bool,
+    deck: Deck,
+    cards_drawn: Vec<Card>,
+    doubled: bool,
+    lost: bool,
+    game_over: bool,
+    games_played: u8,
+}
 
-    loop {
-        if money < 10 {
-            println!("You're out of money! Game over!");
-            println!("You played {} games.", game_count);
+impl App {
+    /// runs the application's main loop until the user quits
+    pub fn run(&mut self, terminal: &mut tui::Tui) -> io::Result<()> {
+        self.deck = Deck::new();
+        self.money = 100;
+        while !self.exit {
+            terminal.draw(|frame| self.render_frame(frame))?;
+            self.handle_events()?;
+        }
+        Ok(())
+    }
+
+    fn render_frame(&self, frame: &mut Frame) {
+        frame.render_widget(self, frame.size());
+    }
+
+    fn handle_events(&mut self) -> io::Result<()> {
+        match event::read()? {
+            // it's important to check that the event is a key press event as
+            // crossterm also emits key release and repeat events on Windows.
+            Event::Key(key_event) if key_event.kind == KeyEventKind::Press => {
+                self.handle_key_event(key_event)
+            }
+            _ => {}
+        };
+        Ok(())
+    }
+
+    fn handle_key_event(&mut self, key_event: KeyEvent) {
+        match key_event.code {
+            KeyCode::Char('q') => self.exit(),
+            KeyCode::Char('y') => self.handle_double(),
+            KeyCode::Enter | KeyCode::Char(' ') => self.handle_draw(),
+            _ => {}
+        }
+    }
+
+    fn handle_draw(&mut self) {
+        if self.game_over {
             return;
         }
 
-        game_count += 1;
-        money -= 10;
-
-        let mut drawn_cards: Vec<Card> = Vec::new();
-
-        // every time we press enter we draw a card
-        let mut doubled_bet = false;
-        for i in 0..10 {
-            if i == 4 {
-                println!("You've drawn 4 cards! Would you like to double your bet? (y/n)");
-                let mut input = String::new();
-                let _ = std::io::stdin().read_line(&mut input);
-
-                if input.trim() == "y" {
-                    money -= 10;
-                    doubled_bet = true;
-                }
-            } else {
-                let _ = std::io::stdin().read_line(&mut String::new());
-            }
-
-            let card = deck.peek().unwrap();
-            println!("You drew a: {}", card);
-
-            if drawn_cards.contains(card) {
-                println!("You drew a duplicate card! You lose!");
-                break;
-            }
-
-            drawn_cards.push(card.clone());
-            deck.shuffle();
-
-            if i == 9 {
-                println!("Congratulations! You drew 10 unique cards and won the game!");
-                money += if doubled_bet { 40 } else { 20 };
-                break;
-            }
-            println!("Press enter to draw another card...");
+        if self.lost {
+            self.lost = false;
+            self.cards_drawn.clear();
+            return;
         }
 
-        println!("You currently have ${}.", money);
+        if self.cards_drawn.len() == 0 {
+            self.bet();
+            self.games_played += 1;
+        }
+
+        self.deck.shuffle();
+        let card = self.deck.peek().unwrap();
+        if self.cards_drawn.contains(card) {
+            self.cards_drawn.push(card.clone());
+            self.handle_loss();
+            return;
+        } else {
+            self.cards_drawn.push(card.clone());
+        }
+
+        if self.cards_drawn.len() == 10 {
+            self.handle_win();
+        }
+    }
+
+    fn handle_loss(&mut self) {
+        self.lost = true;
+        self.doubled = false;
+    }
+
+    fn handle_win(&mut self) {
+        self.return_money();
+        self.cards_drawn.clear();
+        self.doubled = false;
+    }
+
+    fn handle_double(&mut self) {
+        if self.cards_drawn.len() == 4 && !self.doubled && self.money >= 10 {
+            self.doubled = true;
+            self.bet();
+        }
+    }
+
+    fn exit(&mut self) {
+        self.exit = true;
+    }
+
+    fn bet(&mut self) {
+        if self.money < 10 {
+            self.handle_game_over();
+            return;
+        }
+        self.money -= 10;
+    }
+
+    fn handle_game_over(&mut self) {
+        self.game_over = true;
+    }
+
+    fn return_money(&mut self) {
+        self.money += if self.doubled { 40 } else { 20 };
+    }
+}
+
+impl Widget for &App {
+    fn render(self, area: Rect, buf: &mut Buffer) {
+        let title = Title::from(" Copy Cards ".bold());
+        let instructions = Title::from(Line::from(vec![
+            " Draw new card ".into(),
+            "<Enter | Space>".blue().bold(),
+            " Double bet (at 4th card drawn) ".into(),
+            "<Y>".blue().bold(),
+            " Quit ".into(),
+            "<Q> ".blue().bold(),
+        ]));
+        let block = Block::default()
+            .title(title.alignment(Alignment::Center))
+            .title(
+                instructions
+                    .alignment(Alignment::Center)
+                    .position(Position::Bottom),
+            )
+            .borders(Borders::ALL)
+            .border_style(Style::default().fg(Color::White))
+            .border_type(BorderType::Rounded)
+            .border_set(border::THICK);
+
+        let has_doubled_text = if self.doubled {
+            "Doubled".green()
+        } else {
+            "Not doubled".red()
+        };
+
+        let text = Text::from(vec![Line::from(vec![
+            "Games played: ".into(),
+            self.games_played.to_string().yellow(),
+            " - ".into(),
+            "Money: ".into(),
+            (self.money.to_string() + "$").green(),
+            " - ".into(),
+            has_doubled_text,
+        ])]);
+
+        Paragraph::new(text)
+            .centered()
+            .block(block)
+            .render(area, buf);
+
+        if self.game_over {
+            let text = Text::from(vec![Line::from("Game Over".red().bold())]);
+            let new_area = area.clone().inner(&Margin {
+                horizontal: area.width / 4,
+                vertical: (area.height - 3) / 2,
+            });
+            // create padding around the cards_drawn
+            Paragraph::new(text)
+                .alignment(Alignment::Center)
+                .block(
+                    Block::default()
+                        .borders(Borders::NONE)
+                        .title_alignment(Alignment::Center)
+                        .padding(Padding::vertical(new_area.height / 2 - 1)),
+                )
+                .render(new_area, buf);
+        } else {
+            let cards = self
+                .cards_drawn
+                .iter()
+                .map(|card| card.to_string())
+                .collect::<Vec<_>>();
+            let cards = cards.join("   ");
+            let text = Text::from(vec![Line::from(cards)]);
+            let new_area = area.clone().inner(&Margin {
+                horizontal: area.width / 4,
+                vertical: (area.height - 3) / 2,
+            });
+            // create padding around the cards
+            Paragraph::new(text)
+                .alignment(Alignment::Center)
+                .block(
+                    Block::default()
+                        .borders(Borders::NONE)
+                        .title(format!(
+                            " Cards Drawn: {} {}",
+                            self.cards_drawn.len(),
+                            if self.lost { "- Lost " } else { "" }
+                        ))
+                        .title_alignment(Alignment::Center),
+                )
+                .render(new_area, buf);
+        }
     }
 }
