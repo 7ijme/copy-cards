@@ -1,14 +1,11 @@
 use copy_cards::{Card, Deck};
-use crossterm::{
-    event::{self, Event, KeyCode, KeyEvent, KeyEventKind},
-    terminal,
-};
+use crossterm::event::{self, Event, KeyCode, KeyEvent, KeyEventKind};
 use ratatui::{
     prelude::*,
-    symbols::{block, border},
+    symbols::border,
     widgets::{block::*, *},
 };
-use std::{fmt::format, io};
+use std::io;
 
 mod tui;
 
@@ -167,15 +164,26 @@ impl Widget for &App {
             "Not doubled".red()
         };
 
-        let text = Text::from(vec![Line::from(vec![
-            "Games played: ".into(),
-            self.games_played.to_string().yellow(),
-            " - ".into(),
-            "Money: ".into(),
-            (self.money.to_string() + "$").green(),
-            " - ".into(),
-            has_doubled_text,
-        ])]);
+        let text = Text::from(vec![
+            Line::from(vec![
+                "Games played: ".into(),
+                self.games_played.to_string().yellow(),
+                " - ".into(),
+                "Money: ".into(),
+                (self.money.to_string() + "$").green(),
+                " - ".into(),
+                has_doubled_text,
+            ]),
+            Line::from(vec![
+                // explain the game
+                "The goal is to draw 10 cards without drawing the same card twice.".into(),
+            ]),
+            Line::from(vec![
+                "You can double your bet at the ".into(),
+                "4th".yellow(),
+                " card drawn.".into(),
+            ]),
+        ]);
 
         Paragraph::new(text)
             .centered()
