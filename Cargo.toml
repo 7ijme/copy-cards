@@ -1,6 +1,6 @@
 [package]
 name = "copy-cards"
-version = "1.1.2"
+version = "1.1.3"
 edition = "2021"
 description = "A casino game where you don't want duplicates"
 license = "GPL-3.0"
