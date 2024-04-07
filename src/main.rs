@@ -24,6 +24,7 @@ pub struct App {
     cards_drawn: Vec<Card>,
     doubled: bool,
     lost: bool,
+    won: bool,
     game_over: bool,
     games_played: u8,
 }
@@ -73,7 +74,15 @@ impl App {
         if self.lost {
             self.lost = false;
             self.cards_drawn.clear();
-            return;
+            if self.money < 10 {
+                self.handle_game_over();
+                return;
+            }
+        }
+
+        if self.won {
+            self.won = false;
+            self.cards_drawn.clear();
         }
 
         if self.cards_drawn.len() == 0 {
@@ -103,8 +112,8 @@ impl App {
 
     fn handle_win(&mut self) {
         self.return_money();
-        self.cards_drawn.clear();
         self.doubled = false;
+        self.won = true;
     }
 
     fn handle_double(&mut self) {
@@ -225,9 +234,10 @@ impl Widget for &App {
                     Block::default()
                         .borders(Borders::NONE)
                         .title(format!(
-                            " Cards Drawn: {} {}",
+                            " Cards Drawn: {} {}{}",
                             self.cards_drawn.len(),
-                            if self.lost { "- Lost " } else { "" }
+                            if self.lost { "- Lost " } else { "" },
+                            if self.won { "- Won " } else { "" }
                         ))
                         .title_alignment(Alignment::Center),
                 )
