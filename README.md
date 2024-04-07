@@ -21,7 +21,7 @@ $$P(c_{4-10})=1-((1-\frac{52!}{(52-3)!\*52^{3}})+\frac{52!}{(52-10)!\*52^{10}})\
 $$P(p)=\frac{52!}{(52-10)!\*52^{10}}\approx39.7\%$$
 ### Geld
 Dus verdient het casino ongeveer:
-$$m(g,s,d)=g(s\*0.056+(b+1)s\*0.547-(b+1)s\*.397)$$
+$$m(g,s,d)=g(s\*0.056+s(b+1)\*0.547-s(b+1)\*.397)$$
 Waar $m$ geld is, $g$ het aantal spellen, $s$ de inzet en $d$ of de speler z'n inzet verdubbelt na 3 zetten (dit is een waarde van 0 of 1, een boolean).
 Stel dat dit spel $10 000$ keer gespeeld wordt, en de speler verdubbelt elke keer bij de derde kaart zijn inzet van €10.
 $$m(10000,10,1)=10000\*3.56=€35600$$
