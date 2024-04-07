@@ -193,7 +193,7 @@ impl Widget for &App {
         if self.game_over {
             let text = Text::from(vec![Line::from("Game Over".red().bold())]);
             let new_area = area.clone().inner(&Margin {
-                horizontal: area.width,
+                horizontal: area.width / 4,
                 vertical: (area.height - 3) / 2,
             });
             // create padding around the cards_drawn
@@ -215,7 +215,7 @@ impl Widget for &App {
             let cards = cards.join("   ");
             let text = Text::from(vec![Line::from(cards)]);
             let new_area = area.clone().inner(&Margin {
-                horizontal: area.width,
+                horizontal: area.width / 4,
                 vertical: (area.height - 3) / 2,
             });
             // create padding around the cards
