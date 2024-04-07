@@ -108,7 +108,7 @@ impl App {
     }
 
     fn handle_double(&mut self) {
-        if self.cards_drawn.len() == 4 && !self.doubled && self.money >= 10 {
+        if self.cards_drawn.len() == 3 && !self.doubled && self.money >= 10 {
             self.doubled = true;
             self.bet();
         }
@@ -141,7 +141,7 @@ impl Widget for &App {
         let instructions = Title::from(Line::from(vec![
             " Draw new card ".into(),
             "<Enter | Space>".blue().bold(),
-            " Double bet (at 4th card drawn) ".into(),
+            " Double bet (at 3rd card drawn) ".into(),
             "<Y>".blue().bold(),
             " Quit ".into(),
             "<Q> ".blue().bold(),
@@ -180,7 +180,7 @@ impl Widget for &App {
             ]),
             Line::from(vec![
                 "You can double your bet at the ".into(),
-                "4th".yellow(),
+                "3rd".yellow(),
                 " card drawn.".into(),
             ]),
         ]);
@@ -193,7 +193,7 @@ impl Widget for &App {
         if self.game_over {
             let text = Text::from(vec![Line::from("Game Over".red().bold())]);
             let new_area = area.clone().inner(&Margin {
-                horizontal: area.width / 4,
+                horizontal: area.width,
                 vertical: (area.height - 3) / 2,
             });
             // create padding around the cards_drawn
@@ -215,7 +215,7 @@ impl Widget for &App {
             let cards = cards.join("   ");
             let text = Text::from(vec![Line::from(cards)]);
             let new_area = area.clone().inner(&Margin {
-                horizontal: area.width / 4,
+                horizontal: area.width,
                 vertical: (area.height - 3) / 2,
             });
             // create padding around the cards
