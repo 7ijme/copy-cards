@@ -2,7 +2,7 @@
 
 ## Het Spel
 
-De speler trekt een kaart uit een doos waardoor het niet zichtbaar is welke kaart gepakt wordt. In die doos zitten een kaartspel. Er wordt genoteerd welke kaart er getrokken is en de kaart wordt terug gestopt. Dit doet de speler nog tien keer. Als er geen dubbele kaart getrokken wordt, wint de speler. Als dat wel gebeurt wint het casino. Als er drie kaarten getrokken zijn en het casino heeft nog niet gewonnen, kan de speler nog zijn inzet verdubbelen. Als de speler wint, krijgt hij zijn inzet dubbel terug, maar als hij verliest, is hij zijn inzet kwijt. 
+De speler trekt een kaart uit een doos waardoor het niet zichtbaar is welke kaart gepakt wordt. In die doos zit een kaartspel. Er wordt genoteerd welke kaart er getrokken is en de kaart wordt terug gestopt. Dit doet de speler nog tien keer. Als er geen dubbele kaart getrokken wordt, wint de speler. Als dat wel gebeurt wint het casino. Als er drie kaarten getrokken zijn en het casino heeft nog niet gewonnen, kan de speler nog zijn inzet verdubbelen. Als de speler wint, krijgt hij zijn inzet dubbel terug, maar als hij verliest, is hij zijn inzet kwijt. 
 
 ## De kansen
 
