@@ -14,11 +14,11 @@ $P(c)=1-\frac{n!}{(n-k)!*n^{k}}$. In deze formule is $n$ het aantal verjaardagen
 ### Verwachtingswaarde
 
 Met de vorige formule kunnen we de verwachtingswaarde berekenen.
-$$P(c)=1-\frac{52!}{(52-10)!\*52^{10}}\approx60.2\%$$
+$$P(c)=1-\frac{52!}{(52-10)!\*52^{10}}\approx60.2\\%$$
 Nadat de speler 3 kaarten heeft getrokken, kan hij zijn inzet verdubbelen. Dit zijn de kansen dat het casino wint voor het verdubbelen, na het verdubbelen en dat de speler wint.
-$$P(c_{1-3})=1-\frac{52!}{(52-3)!\*52^{3}}\approx5.7\%$$
-$$P(c_{4-10})=1-((1-\frac{52!}{(52-3)!\*52^{3}})+\frac{52!}{(52-10)!\*52^{10}})\approx54.6\%$$
-$$P(p)=\frac{52!}{(52-10)!\*52^{10}}\approx39.7\%$$
+$$P(c_{1-3})=1-\frac{52!}{(52-3)!\*52^{3}}\approx5.7\\%$$
+$$P(c_{4-10})=1-((1-\frac{52!}{(52-3)!\*52^{3}})+\frac{52!}{(52-10)!\*52^{10}})\approx54.6\\%$$
+$$P(p)=\frac{52!}{(52-10)!\*52^{10}}\approx39.7\\%$$
 ### Geld
 Dus verdient het casino ongeveer:
 $$m(g,s,d)=g(s\*0.056+s(b+1)\*0.547-s(b+1)\*.397)$$
