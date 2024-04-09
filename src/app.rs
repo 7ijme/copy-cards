@@ -163,21 +163,13 @@ impl Widget for &App {
             .border_type(BorderType::Rounded)
             .border_set(border::THICK);
 
-        let has_doubled_text = if self.doubled {
-            "Doubled".green()
-        } else {
-            "Not doubled".red()
-        };
-
-        let text = Text::from(vec![
+        let description_text = Text::from(vec![
             Line::from(vec![
                 "Games played: ".into(),
                 self.games_played.to_string().yellow(),
                 " - ".into(),
                 "Money: ".into(),
                 (self.money.to_string() + "$").green(),
-                " - ".into(),
-                has_doubled_text,
             ]),
             Line::from(vec![
                 // explain the game
@@ -190,20 +182,21 @@ impl Widget for &App {
             ]),
         ]);
 
-        Paragraph::new(text)
+        Paragraph::new(description_text)
             .centered()
             .block(block)
             .render(area, buf);
 
         if self.game_over {
-            let text = Text::from(vec![Line::from("Game Over".red().bold())]);
+            let gameover_text = Text::from(vec![Line::from("Game Over".red().bold())]);
             let new_area = area.clone().inner(&Margin {
                 horizontal: area.width / 4,
                 vertical: (area.height - 3) / 2,
             });
             // create padding around the cards_drawn
-            Paragraph::new(text)
+            Paragraph::new(gameover_text)
                 .alignment(Alignment::Center)
+            // create padding around the cards
                 .block(
                     Block::default()
                         .borders(Borders::NONE)
@@ -218,25 +211,39 @@ impl Widget for &App {
                 .map(|card| card.to_string())
                 .collect::<Vec<_>>();
             let cards = cards.join("   ");
-            let text = Text::from(vec![Line::from(cards)]);
+
+            let has_doubled_text = if self.doubled {
+                "Doubled".green()
+            } else {
+                "Not doubled".red()
+            };
+
+            let status_text = if self.won {
+                "Won".green()
+            } else if self.lost {
+                "Lost ".red()
+            } else {
+                "Playing".yellow()
+            };
+
+            let information = vec![
+                "Cards Drawn: ".into(),
+                self.cards_drawn.len().to_string().yellow(),
+                " - ".into(),
+                has_doubled_text,
+                " - ".into(),
+                status_text,
+            ];
+
+            let text = Text::from(vec![Line::from(information), Line::from(cards)]);
             let new_area = area.clone().inner(&Margin {
                 horizontal: area.width / 4,
                 vertical: (area.height - 3) / 2,
             });
-            // create padding around the cards
+
             Paragraph::new(text)
                 .alignment(Alignment::Center)
-                .block(
-                    Block::default()
-                        .borders(Borders::NONE)
-                        .title(format!(
-                            " Cards Drawn: {} {}{}",
-                            self.cards_drawn.len(),
-                            if self.lost { "- Lost " } else { "" },
-                            if self.won { "- Won " } else { "" }
-                        ))
-                        .title_alignment(Alignment::Center),
-                )
+                .block(Block::default().borders(Borders::NONE))
                 .render(new_area, buf);
         }
     }
