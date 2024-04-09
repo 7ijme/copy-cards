@@ -1,3 +1,5 @@
+// - This file contains the terminal initialization and restoration functions
+
 use std::io::{self, stdout, Stdout};
 
 use crossterm::{execute, terminal::*};

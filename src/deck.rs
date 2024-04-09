@@ -1,6 +1,7 @@
-use std::fmt::Display;
+// - This file contains the deck, card, and suit types
 
 use rand::seq::SliceRandom;
+use std::fmt::Display;
 
 #[derive(Debug, Clone, PartialEq)]
 pub enum Suit {
