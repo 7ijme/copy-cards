@@ -1,57 +1,63 @@
 # Copy Cards
 
-## Het Spel
+## What is it?
+This is a group project I had to work on where we had to create a casino game and calculate all the juicy maths behind it.
 
-De speler trekt een kaart uit een doos waardoor het niet zichtbaar is welke kaart gepakt wordt. In die doos zit een kaartspel. Er wordt genoteerd welke kaart er getrokken is en de kaart wordt terug gestopt. Dit doet de speler nog tien keer. Als er geen dubbele kaart getrokken wordt, wint de speler. Als dat wel gebeurt wint het casino. Als er drie kaarten getrokken zijn en het casino heeft nog niet gewonnen, kan de speler nog zijn inzet verdubbelen. Als de speler wint, krijgt hij zijn inzet dubbel terug, maar als hij verliest, is hij zijn inzet kwijt. 
+## The Game
 
-## De kansen
+The played draws a card out of a closed box. The card gets noted a put back. The player does this a total of 10 times. If the same card gets drawn twice the player loses, and if that doesn't happen, the player wins. After 3 cards drawn, the player can decide to double their bet. When the player wins, they get back double their bet, and when they lose, the casino keeps the money.
+
+## Chances
 
 ### Birthday Paradox
 
-Dit spel is gebaseerd op het [Birthday paradox](https://en.wikipedia.org/wiki/Birthday_problem). Het lijk intuïtief dat er redelijk wat mensen nodig zijn om de kans 50\% te maken dat er 2 mensen dezelde verjaardag hebben. Echter zijn er maar 23 nodig. De formule om dit te berekenen is:
-$P(c)=1-\frac{n!}{(n-k)!*n^{k}}$. In deze formule is $n$ het aantal verjaardagen, en $k$ het aantal mensen.
+This game is based on the [Birthday paradox](https://en.wikipedia.org/wiki/Birthday_problem). It sounds intuitive that you need quite a lot of people to have a 50% chance of 2 people sharing a birthday. However, you only need 23 people. The formula to calculate this is:
+$P(c)=1-\frac{n!}{(n-k)!\cdot n^{k}}$. In this formula $n$ is the amount of birthdays (normally 365), and $k$ is the amount of people.
 
-### Verwachtingswaarde
+### Expected value
 
-Met de vorige formule kunnen we de verwachtingswaarde berekenen.
-$$P(c)=1-\frac{52!}{(52-10)!\*52^{10}}\approx60.2\\%$$
-Nadat de speler 3 kaarten heeft getrokken, kan hij zijn inzet verdubbelen. Dit zijn de kansen dat het casino wint voor het verdubbelen, na het verdubbelen en dat de speler wint.
-$$P(c_{1-3})=1-\frac{52!}{(52-3)!\*52^{3}}\approx5.7\\%$$
-$$P(c_{4-10})=1-((1-\frac{52!}{(52-3)!\*52^{3}})+\frac{52!}{(52-10)!\*52^{10}})\approx54.6\\%$$
-$$P(p)=\frac{52!}{(52-10)!\*52^{10}}\approx39.7\\%$$
-### Geld
-Dus verdient het casino ongeveer:
-$$m(g,s,d)=g(s\*0.056+s(b+1)\*0.547-s(b+1)\*.397)$$
-Waar $m$ geld is, $g$ het aantal spellen, $s$ de inzet en $d$ of de speler z'n inzet verdubbelt na 3 zetten (dit is een waarde van 0 of 1, een boolean).
-Stel dat dit spel $10 000$ keer gespeeld wordt, en de speler verdubbelt elke keer bij de derde kaart zijn inzet van €10.
-$$m(10000,10,1)=10000\*3.56=€35600$$
-### Normaalverdeling
-Laten we het spel weer 10000 keer spelen.
-Als $n$ groter wordt, kunnen we aanemen dat:
+With the previous formula we can calculate the expected value.
+$$P(c)=1-\frac{52!}{(52-10)!\cdot52^{10}}\approx60.2\\%$$
+After 3 cards drawn, the played can double their bet. These are the chances the casino wins before the doubling, after the doubling and the player winning.
+$$P(c_{1-3})=1-\frac{52!}{(52-3)!\cdot52^{3}}\approx5.7\\%$$
+$$P(c_{4-10})=1-((1-\frac{52!}{(52-3)!\cdot52^{3}})+\frac{52!}{(52-10)!\cdot52^{10}})\approx54.6\\%$$
+$$P(p)=\frac{52!}{(52-10)!\cdot52^{10}}\approx39.7\\%$$
+
+### Money
+Therefore, the casino approximately earns:
+$$m(g,s,d)=g\\cdot(s\cdot0.056+s(b+1)\cdot0.547-s(b+1)\cdot.397)$$
+Where $m$ is money, $g$ is the amount of games, $s$ is the bet and $d$ is whether the player doubles down (this is a boolean value, 0 or 1).
+Imagine the game get played $10 000$ times, and the player doubles down every time he draws his third card. His initial bet is €10.
+$$m(10000,10,1)=10000\cdot3.56=€35600$$
+
+### Normal distribution
+Let's play the game 10000 times again.
+When $n$ gets closer to infinity, we can assume that:
 $$\mathcal{B}(n,p)\sim\mathcal{N}(np,\sqrt{np(1-p})$$
-Nu berekenen we de waarden van $\mu$ en $\sigma$ berekenen.
-$$\mu=np=10000\*0.602=6020$$
-$$\sigma=\sqrt{np(1-p)}=\sqrt{10000\*0.602\*(1-0.602)}\approx48.9$$
-Deze kunnen we gebruiken om een normaalverdeling te plotten.
+Now we can calculate the values of $\mu$ and $\sigma$.
+$$\mu=np=10000\cdot0.602=6020$$
+$$\sigma=\sqrt{np(1-p)}=\sqrt{10000\cdot0.602\cdot(1-0.602)}\approx48.9$$
+We can use this to plot a graph.
 
 ![graph](https://github.com/7ijme/copy-cards/assets/68817281/e0fb2e32-8928-489a-8deb-a48666952229)
 
-Hier kunnen we zien dat de kans  65.9\% is dat het casino 6000 of meer keer wint van de 10000.
-## Installeren
-Om het spel te spelen moet je 1 van de volgende dingen doen:
+We can see that there is a 65.9\% chance of the casuno winning 6000 or more of the 10000 games.
 
-Ga naar [releases](https://github.com/7ijme/copy-cards/releases/latest) en download het bestand voor jouw OS.
+## Installation
+To play the game you have to do one of these things:
 
-Je kan het spel ook installeren met `cargo`
+Go to [releases](https://github.com/7ijme/copy-cards/releases/latest) and download the file corresponding to your OS.
+
+You can also install the game with `cargo`. Beware that you do need [Rust](https://www.rust-lang.org/tools/install) installed.
 ```sh
 cargo install copy-cards
 ```
 
-Als dit niet werkt, of je wilt lokaal het project bouwen:
+If that doesn't work, or you want to build locally, here's what to do. You need [Rust](https://www.rust-lang.org/tools/install) installed for this too.
 ```sh
 git clone https://github.com/7ijme/copy-cards
 cd copy-cards
 cargo build --release
 ```
 
-Nu kan je het spel spelen, veel plezier!
+Now you can play the game, have fun!
