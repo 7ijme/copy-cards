@@ -190,13 +190,13 @@ impl Widget for &App {
         if self.game_over {
             let gameover_text = Text::from(vec![Line::from("Game Over".red().bold())]);
             let new_area = area.clone().inner(&Margin {
-                horizontal: area.width / 4,
+                horizontal: area.width - 2,
                 vertical: (area.height - 3) / 2,
             });
             // create padding around the cards_drawn
             Paragraph::new(gameover_text)
                 .alignment(Alignment::Center)
-            // create padding around the cards
+                // create padding around the cards
                 .block(
                     Block::default()
                         .borders(Borders::NONE)
