@@ -33,9 +33,12 @@ $$m(10000,10,1)=10000\cdot3.56=€35600$$
 ### Normal distribution
 Let's play the game 10000 times again.
 When $n$ gets closer to infinity, we can assume that:
+
 $$\mathcal{B}(n,p)\sim\mathcal{N}(np,\sqrt{np(1-p})$$
 Now we can calculate the values of $\mu$ and $\sigma$.
+
 $$\mu=np=10000\cdot0.602=6020$$
+
 $$\sigma=\sqrt{np(1-p)}=\sqrt{10000\cdot0.602\cdot(1-0.602)}\approx48.9$$
 We can use this to plot a graph.
 
