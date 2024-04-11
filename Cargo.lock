@@ -74,7 +74,7 @@ dependencies = [
 
 [[package]]
 name = "copy-cards"
-version = "1.1.5"
+version = "1.1.6"
 dependencies = [
  "crossterm",
  "rand",
@@ -372,9 +372,9 @@ dependencies = [
 
 [[package]]
 name = "small-card-deck"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6db9e839b0932e6079e24fc5d6ddd7153f6ccb0fc6f84cdd78b787c8fe452991"
+checksum = "2c09c7d8f5eda3b052b8e12f3f09e558222b416cd08c924b8735b06638448c3c"
 dependencies = [
  "rand",
 ]

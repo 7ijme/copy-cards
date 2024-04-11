@@ -2,7 +2,6 @@ use app::App;
 use std::io;
 
 pub mod app;
-mod deck;
 pub mod tui;
 
 fn main() -> io::Result<()> {
