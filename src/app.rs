@@ -1,15 +1,13 @@
 // - This file contains the main application logic.
 
-use crate::{
-    deck::{Card, Deck},
-    tui,
-};
+use crate::tui;
 use crossterm::event::{self, Event, KeyCode, KeyEvent, KeyEventKind};
 use ratatui::{
     prelude::*,
     symbols::border,
     widgets::{block::*, *},
 };
+use small_card_deck::{Card, Deck};
 use std::io;
 
 #[derive(Debug, Default)]
