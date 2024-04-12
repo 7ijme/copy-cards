@@ -5,7 +5,7 @@ This is a group project I had to work on where we had to create a casino game an
 
 ## The Game
 
-The played draws a card out of a closed box. The card gets noted a put back. The player does this a total of 10 times. If the same card gets drawn twice the player loses, and if that doesn't happen, the player wins. After 3 cards drawn, the player can decide to double their bet. When the player wins, they get back double their bet, and when they lose, the casino keeps the money.
+The player draws a card out of a closed box. The card gets noted a put back. The player does this a total of 10 times. If the same card gets drawn twice the player loses, and if that doesn't happen, the player wins. After 3 cards drawn, the player can decide to double their bet. When the player wins, they get back double their bet, and when they lose, the casino keeps the money.
 
 ## Chances
 
