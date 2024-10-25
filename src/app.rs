@@ -9,10 +9,14 @@ use ratatui::{
 };
 use small_card_deck::{Card, Deck};
 use std::io;
+use serde::{Deserialize, Serialize};
+use serde_json;
+use std::fs::OpenOptions;
+use std::io::{Read, Write, Seek, SeekFrom};
 
 #[derive(Debug, Default)]
 pub struct App {
-    money: u8,
+    money: u32,
     exit: bool,
     deck: Deck,
     cards_drawn: Vec<Card>,
@@ -20,7 +24,16 @@ pub struct App {
     lost: bool,
     won: bool,
     game_over: bool,
-    games_played: u8,
+    games_played: u32,
+    amount_won: u32,
+    i: u16,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+struct GameData {
+    games_played: u32,
+    amount_won: u32,
+    ratio: f32,
 }
 
 impl App {
@@ -28,9 +41,44 @@ impl App {
     pub fn run(&mut self, terminal: &mut tui::Tui) -> io::Result<()> {
         self.deck = Deck::new();
         self.money = 100;
+
         while !self.exit {
             terminal.draw(|frame| self.render_frame(frame))?;
-            self.handle_events()?;
+            // self.handle_events()?;
+            self.handle_draw();
+
+            // check if press q to quit
+            // if event::poll(std::time::Duration::from_millis(1))? {
+            //     self.handle_events()?;
+            // }
+
+            if self.game_over {
+                let ratio = if self.games_played == 0 {
+                    0.0
+                } else {
+                    self.amount_won as f32 / self.games_played as f32
+                };
+                // write to file the ratio of games won
+                // data.json
+                // form [{games_played: 0, amount_won: 0, ratio: 0.0}]
+                // if file does not exist, create it
+                // if file exists, read it and append the new data
+
+                add_game_data("data.json", self.games_played, self.amount_won, ratio)?;
+
+                if self.i == 49 {
+                    self.exit();
+                }
+                self.i += 1;
+                self.game_over = false;
+                self.games_played = 0;
+                self.money = 100;
+                self.deck = Deck::new();
+                self.amount_won = 0;
+
+                // get ratio of games won
+
+            }
         }
         Ok(())
     }
@@ -108,6 +156,7 @@ impl App {
         self.return_money();
         self.doubled = false;
         self.won = true;
+        self.amount_won += 1;
     }
 
     fn handle_double(&mut self) {
@@ -163,8 +212,8 @@ impl Widget for &App {
 
         let description_text = Text::from(vec![
             Line::from(vec![
-                "Games played: ".into(),
-                self.games_played.to_string().yellow(),
+                "Iteration".into(),
+                self.i.to_string().yellow(),
                 " - ".into(),
                 "Money: ".into(),
                 (self.money.to_string() + "$").green(),
@@ -199,7 +248,7 @@ impl Widget for &App {
                     Block::default()
                         .borders(Borders::NONE)
                         .title_alignment(Alignment::Center)
-                        .padding(Padding::vertical(new_area.height / 2 - 1)),
+                        // .padding(Padding::vertical(new_area.height / 2 - 1)),
                 )
                 .render(new_area, buf);
         } else {
@@ -245,4 +294,49 @@ impl Widget for &App {
                 .render(new_area, buf);
         }
     }
+}
+fn add_game_data(path: &str, games_played: u32, amount_won: u32, ratio: f32) -> std::io::Result<()> {
+     // Open the file with read, write, and create options
+    let mut file = OpenOptions::new()
+        .read(true)
+        .write(true)
+        .create(true)
+        .open(path)?;
+
+    // Check if the file is empty; if so, write an empty array (`[]`) to initialize it
+    let mut content = String::new();
+    file.read_to_string(&mut content)?;
+
+    let mut data: Vec<GameData> = if content.trim().is_empty() {
+        // Write `[]` to initialize and flush immediately
+        file.write_all(b"[]")?;
+        file.flush()?;
+        Vec::new() // Start with an empty Vec in memory
+    } else {
+        // If the file is not empty, parse the existing JSON content
+        // Reset the cursor to the start for reading the file's content
+        file.seek(SeekFrom::Start(0))?;
+        serde_json::from_str(&content)?
+    };
+
+    // Add the new entry
+    let new_entry = GameData {
+        games_played,
+        amount_won,
+        ratio,
+    };
+    data.push(new_entry);
+
+    // Serialize the updated data
+    let updated_content = serde_json::to_string_pretty(&data)?;
+
+    // Re-open the file in truncate mode to clear old content and write updated data
+    let mut file = OpenOptions::new()
+        .write(true)
+        .truncate(true)
+        .open(path)?;
+
+    file.write_all(updated_content.as_bytes())?;
+
+    Ok(())
 }
