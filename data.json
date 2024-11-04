@@ -2,5001 +2,6001 @@
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 1
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 2
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 3
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 4
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 5
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 6
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 7
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 8
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 9
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 10
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 11
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 12
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 13
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 14
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 15
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 16
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 17
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 18
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 19
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 20
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 21
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 22
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 23
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 24
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 25
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 26
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 27
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 28
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 29
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 30
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 31
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 32
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 33
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 34
   },
   {
     "games_played": 84,
     "amount_won": 37,
-    "ratio": 0.44047618
+    "ratio": 0.44047618,
+	"id": 35
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 36
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 37
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 38
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 39
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 40
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 41
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 42
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 43
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 44
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 45
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 46
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 47
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 48
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 49
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 50
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 51
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 52
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 53
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 54
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 55
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 56
   },
   {
     "games_played": 80,
     "amount_won": 35,
-    "ratio": 0.4375
+    "ratio": 0.4375,
+	"id": 57
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 58
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 59
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 60
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 61
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 62
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 63
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 64
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 65
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 66
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 67
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 68
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 69
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 70
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 71
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 72
   },
   {
     "games_played": 78,
     "amount_won": 34,
-    "ratio": 0.43589744
+    "ratio": 0.43589744,
+	"id": 73
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 74
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 75
   },
   {
     "games_played": 116,
     "amount_won": 53,
-    "ratio": 0.45689654
+    "ratio": 0.45689654,
+	"id": 76
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 77
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 78
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 79
   },
   {
     "games_played": 84,
     "amount_won": 37,
-    "ratio": 0.44047618
+    "ratio": 0.44047618,
+	"id": 80
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 81
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 82
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 83
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 84
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 85
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 86
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 87
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 88
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 89
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 90
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 91
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 92
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 93
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 94
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 95
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 96
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 97
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 98
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 99
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 100
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 101
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 102
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 103
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 104
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 105
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 106
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 107
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 108
   },
   {
     "games_played": 94,
     "amount_won": 42,
-    "ratio": 0.44680852
+    "ratio": 0.44680852,
+	"id": 109
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 110
   },
   {
     "games_played": 126,
     "amount_won": 58,
-    "ratio": 0.46031746
+    "ratio": 0.46031746,
+	"id": 111
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 112
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 113
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 114
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 115
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 116
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 117
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 118
   },
   {
     "games_played": 130,
     "amount_won": 60,
-    "ratio": 0.46153846
+    "ratio": 0.46153846,
+	"id": 119
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 120
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 121
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 122
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 123
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 124
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 125
   },
   {
     "games_played": 84,
     "amount_won": 37,
-    "ratio": 0.44047618
+    "ratio": 0.44047618,
+	"id": 126
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 127
   },
   {
     "games_played": 80,
     "amount_won": 35,
-    "ratio": 0.4375
+    "ratio": 0.4375,
+	"id": 128
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 129
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 130
   },
   {
     "games_played": 74,
     "amount_won": 32,
-    "ratio": 0.43243244
+    "ratio": 0.43243244,
+	"id": 131
   },
   {
     "games_played": 74,
     "amount_won": 32,
-    "ratio": 0.43243244
+    "ratio": 0.43243244,
+	"id": 132
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 133
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 134
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 135
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 136
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 137
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 138
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 139
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 140
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 141
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 142
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 143
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 144
   },
   {
     "games_played": 108,
     "amount_won": 49,
-    "ratio": 0.4537037
+    "ratio": 0.4537037,
+	"id": 145
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 146
   },
   {
     "games_played": 142,
     "amount_won": 66,
-    "ratio": 0.46478873
+    "ratio": 0.46478873,
+	"id": 147
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 148
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 149
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 150
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 151
   },
   {
     "games_played": 158,
     "amount_won": 74,
-    "ratio": 0.46835443
+    "ratio": 0.46835443,
+	"id": 152
   },
   {
     "games_played": 122,
     "amount_won": 56,
-    "ratio": 0.45901638
+    "ratio": 0.45901638,
+	"id": 153
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 154
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 155
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 156
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 157
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 158
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 159
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 160
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 161
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 162
   },
   {
     "games_played": 110,
     "amount_won": 50,
-    "ratio": 0.45454547
+    "ratio": 0.45454547,
+	"id": 163
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 164
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 165
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 166
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 167
   },
   {
     "games_played": 156,
     "amount_won": 73,
-    "ratio": 0.4679487
+    "ratio": 0.4679487,
+	"id": 168
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 169
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 170
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 171
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 172
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 173
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 174
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 175
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 176
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 177
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 178
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 179
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 180
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 181
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 182
   },
   {
     "games_played": 100,
     "amount_won": 45,
-    "ratio": 0.45
+    "ratio": 0.45,
+	"id": 183
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 184
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 185
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 186
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 187
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 188
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 189
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 190
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 191
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 192
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 193
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 194
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 195
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 196
   },
   {
     "games_played": 100,
     "amount_won": 45,
-    "ratio": 0.45
+    "ratio": 0.45,
+	"id": 197
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 198
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 199
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 200
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 201
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 202
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 203
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 204
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 205
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 206
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 207
   },
   {
     "games_played": 120,
     "amount_won": 55,
-    "ratio": 0.45833334
+    "ratio": 0.45833334,
+	"id": 208
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 209
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 210
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 211
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 212
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 213
   },
   {
     "games_played": 94,
     "amount_won": 42,
-    "ratio": 0.44680852
+    "ratio": 0.44680852,
+	"id": 214
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 215
   },
   {
     "games_played": 136,
     "amount_won": 63,
-    "ratio": 0.4632353
+    "ratio": 0.4632353,
+	"id": 216
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 217
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 218
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 219
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 220
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 221
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 222
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 223
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 224
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 225
   },
   {
     "games_played": 106,
     "amount_won": 48,
-    "ratio": 0.4528302
+    "ratio": 0.4528302,
+	"id": 226
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 227
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 228
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 229
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 230
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 231
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 232
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 233
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 234
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 235
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 236
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 237
   },
   {
     "games_played": 80,
     "amount_won": 35,
-    "ratio": 0.4375
+    "ratio": 0.4375,
+	"id": 238
   },
   {
     "games_played": 118,
     "amount_won": 54,
-    "ratio": 0.45762712
+    "ratio": 0.45762712,
+	"id": 239
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 240
   },
   {
     "games_played": 90,
     "amount_won": 40,
-    "ratio": 0.44444445
+    "ratio": 0.44444445,
+	"id": 241
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 242
   },
   {
     "games_played": 212,
     "amount_won": 101,
-    "ratio": 0.4764151
+    "ratio": 0.4764151,
+	"id": 243
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 244
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 245
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 246
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 247
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 248
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 249
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 250
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 251
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 252
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 253
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 254
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 255
   },
   {
     "games_played": 192,
     "amount_won": 91,
-    "ratio": 0.47395834
+    "ratio": 0.47395834,
+	"id": 256
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 257
   },
   {
     "games_played": 152,
     "amount_won": 71,
-    "ratio": 0.46710527
+    "ratio": 0.46710527,
+	"id": 258
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 259
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 260
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 261
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 262
   },
   {
     "games_played": 100,
     "amount_won": 45,
-    "ratio": 0.45
+    "ratio": 0.45,
+	"id": 263
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 264
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 265
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 266
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 267
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 268
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 269
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 270
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 271
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 272
   },
   {
     "games_played": 102,
     "amount_won": 46,
-    "ratio": 0.4509804
+    "ratio": 0.4509804,
+	"id": 273
   },
   {
     "games_played": 136,
     "amount_won": 63,
-    "ratio": 0.4632353
+    "ratio": 0.4632353,
+	"id": 274
   },
   {
     "games_played": 150,
     "amount_won": 70,
-    "ratio": 0.46666667
+    "ratio": 0.46666667,
+	"id": 275
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 276
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 277
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 278
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 279
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 280
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 281
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 282
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 283
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 284
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 285
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 286
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 287
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 288
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 289
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 290
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 291
   },
   {
     "games_played": 110,
     "amount_won": 50,
-    "ratio": 0.45454547
+    "ratio": 0.45454547,
+	"id": 292
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 293
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 294
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 295
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 296
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 297
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 298
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 299
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 300
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 301
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 302
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 303
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 304
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 305
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 306
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 307
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 308
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 309
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 310
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 311
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 312
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 313
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 314
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 315
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 316
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 317
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 318
   },
   {
     "games_played": 100,
     "amount_won": 45,
-    "ratio": 0.45
+    "ratio": 0.45,
+	"id": 319
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 320
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 321
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 322
   },
   {
     "games_played": 118,
     "amount_won": 54,
-    "ratio": 0.45762712
+    "ratio": 0.45762712,
+	"id": 323
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 324
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 325
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 326
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 327
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 328
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 329
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 330
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 331
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 332
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 333
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 334
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 335
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 336
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 337
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 338
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 339
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 340
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 341
   },
   {
     "games_played": 110,
     "amount_won": 50,
-    "ratio": 0.45454547
+    "ratio": 0.45454547,
+	"id": 342
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 343
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 344
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 345
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 346
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 347
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 348
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 349
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 350
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 351
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 352
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 353
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 354
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 355
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 356
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 357
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 358
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 359
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 360
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 361
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 362
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 363
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 364
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 365
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 366
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 367
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 368
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 369
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 370
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 371
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 372
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 373
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 374
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 375
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 376
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 377
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 378
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 379
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 380
   },
   {
     "games_played": 88,
     "amount_won": 39,
-    "ratio": 0.4431818
+    "ratio": 0.4431818,
+	"id": 381
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 382
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 383
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 384
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 385
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 386
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 387
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 388
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 389
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 390
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 391
   },
   {
     "games_played": 100,
     "amount_won": 45,
-    "ratio": 0.45
+    "ratio": 0.45,
+	"id": 392
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 393
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 394
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 395
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 396
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 397
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 398
   },
   {
     "games_played": 104,
     "amount_won": 47,
-    "ratio": 0.45192307
+    "ratio": 0.45192307,
+	"id": 399
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 400
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 401
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 402
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 403
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 404
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 405
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 406
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 407
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 408
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 409
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 410
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 411
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 412
   },
   {
     "games_played": 120,
     "amount_won": 55,
-    "ratio": 0.45833334
+    "ratio": 0.45833334,
+	"id": 413
   },
   {
     "games_played": 136,
     "amount_won": 63,
-    "ratio": 0.4632353
+    "ratio": 0.4632353,
+	"id": 414
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 415
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 416
   },
   {
     "games_played": 96,
     "amount_won": 43,
-    "ratio": 0.44791666
+    "ratio": 0.44791666,
+	"id": 417
   },
   {
     "games_played": 84,
     "amount_won": 37,
-    "ratio": 0.44047618
+    "ratio": 0.44047618,
+	"id": 418
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 419
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 420
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 421
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 422
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 423
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 424
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 425
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 426
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 427
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 428
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 429
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 430
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 431
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 432
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 433
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 434
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 435
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 436
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 437
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 438
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 439
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 440
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 441
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 442
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 443
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 444
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 445
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 446
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 447
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 448
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 449
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 450
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 451
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 452
   },
   {
     "games_played": 206,
     "amount_won": 98,
-    "ratio": 0.47572815
+    "ratio": 0.47572815,
+	"id": 453
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 454
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 455
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 456
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 457
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 458
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 459
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 460
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 461
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 462
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 463
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 464
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 465
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 466
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 467
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 468
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 469
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 470
   },
   {
     "games_played": 112,
     "amount_won": 51,
-    "ratio": 0.45535713
+    "ratio": 0.45535713,
+	"id": 471
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 472
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 473
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 474
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 475
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 476
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 477
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 478
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 479
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 480
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 481
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 482
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 483
   },
   {
     "games_played": 122,
     "amount_won": 56,
-    "ratio": 0.45901638
+    "ratio": 0.45901638,
+	"id": 484
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 485
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 486
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 487
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 488
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 489
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 490
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 491
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 492
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 493
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 494
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 495
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 496
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 497
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 498
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 499
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 500
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 501
   },
   {
     "games_played": 88,
     "amount_won": 39,
-    "ratio": 0.4431818
+    "ratio": 0.4431818,
+	"id": 502
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 503
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 504
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 505
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 506
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 507
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 508
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 509
   },
   {
     "games_played": 104,
     "amount_won": 47,
-    "ratio": 0.45192307
+    "ratio": 0.45192307,
+	"id": 510
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 511
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 512
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 513
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 514
   },
   {
     "games_played": 124,
     "amount_won": 57,
-    "ratio": 0.45967743
+    "ratio": 0.45967743,
+	"id": 515
   },
   {
     "games_played": 140,
     "amount_won": 65,
-    "ratio": 0.4642857
+    "ratio": 0.4642857,
+	"id": 516
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 517
   },
   {
     "games_played": 132,
     "amount_won": 61,
-    "ratio": 0.46212122
+    "ratio": 0.46212122,
+	"id": 518
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 519
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 520
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 521
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 522
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 523
   },
   {
     "games_played": 96,
     "amount_won": 43,
-    "ratio": 0.44791666
+    "ratio": 0.44791666,
+	"id": 524
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 525
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 526
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 527
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 528
   },
   {
     "games_played": 78,
     "amount_won": 34,
-    "ratio": 0.43589744
+    "ratio": 0.43589744,
+	"id": 529
   },
   {
     "games_played": 80,
     "amount_won": 35,
-    "ratio": 0.4375
+    "ratio": 0.4375,
+	"id": 530
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 531
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 532
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 533
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 534
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 535
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 536
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 537
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 538
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 539
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 540
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 541
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 542
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 543
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 544
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 545
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 546
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 547
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 548
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 549
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 550
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 551
   },
   {
     "games_played": 118,
     "amount_won": 54,
-    "ratio": 0.45762712
+    "ratio": 0.45762712,
+	"id": 552
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 553
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 554
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 555
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 556
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 557
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 558
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 559
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 560
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 561
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 562
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 563
   },
   {
     "games_played": 166,
     "amount_won": 78,
-    "ratio": 0.4698795
+    "ratio": 0.4698795,
+	"id": 564
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 565
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 566
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 567
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 568
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 569
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 570
   },
   {
     "games_played": 98,
     "amount_won": 44,
-    "ratio": 0.4489796
+    "ratio": 0.4489796,
+	"id": 571
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 572
   },
   {
     "games_played": 116,
     "amount_won": 53,
-    "ratio": 0.45689654
+    "ratio": 0.45689654,
+	"id": 573
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 574
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 575
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 576
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 577
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 578
   },
   {
     "games_played": 150,
     "amount_won": 70,
-    "ratio": 0.46666667
+    "ratio": 0.46666667,
+	"id": 579
   },
   {
     "games_played": 100,
     "amount_won": 45,
-    "ratio": 0.45
+    "ratio": 0.45,
+	"id": 580
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 581
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 582
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 583
   },
   {
     "games_played": 148,
     "amount_won": 69,
-    "ratio": 0.4662162
+    "ratio": 0.4662162,
+	"id": 584
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 585
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 586
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 587
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 588
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 589
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 590
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 591
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 592
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 593
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 594
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 595
   },
   {
     "games_played": 88,
     "amount_won": 39,
-    "ratio": 0.4431818
+    "ratio": 0.4431818,
+	"id": 596
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 597
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 598
   },
   {
     "games_played": 74,
     "amount_won": 32,
-    "ratio": 0.43243244
+    "ratio": 0.43243244,
+	"id": 599
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 600
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 601
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 602
   },
   {
     "games_played": 112,
     "amount_won": 51,
-    "ratio": 0.45535713
+    "ratio": 0.45535713,
+	"id": 603
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 604
   },
   {
     "games_played": 108,
     "amount_won": 49,
-    "ratio": 0.4537037
+    "ratio": 0.4537037,
+	"id": 605
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 606
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 607
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 608
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 609
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 610
   },
   {
     "games_played": 78,
     "amount_won": 34,
-    "ratio": 0.43589744
+    "ratio": 0.43589744,
+	"id": 611
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 612
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 613
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 614
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 615
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 616
   },
   {
     "games_played": 98,
     "amount_won": 44,
-    "ratio": 0.4489796
+    "ratio": 0.4489796,
+	"id": 617
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 618
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 619
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 620
   },
   {
     "games_played": 74,
     "amount_won": 32,
-    "ratio": 0.43243244
+    "ratio": 0.43243244,
+	"id": 621
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 622
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 623
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 624
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 625
   },
   {
     "games_played": 162,
     "amount_won": 76,
-    "ratio": 0.4691358
+    "ratio": 0.4691358,
+	"id": 626
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 627
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 628
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 629
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 630
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 631
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 632
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 633
   },
   {
     "games_played": 98,
     "amount_won": 44,
-    "ratio": 0.4489796
+    "ratio": 0.4489796,
+	"id": 634
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 635
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 636
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 637
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 638
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 639
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 640
   },
   {
     "games_played": 116,
     "amount_won": 53,
-    "ratio": 0.45689654
+    "ratio": 0.45689654,
+	"id": 641
   },
   {
     "games_played": 94,
     "amount_won": 42,
-    "ratio": 0.44680852
+    "ratio": 0.44680852,
+	"id": 642
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 643
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 644
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 645
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 646
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 647
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 648
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 649
   },
   {
     "games_played": 180,
     "amount_won": 85,
-    "ratio": 0.4722222
+    "ratio": 0.4722222,
+	"id": 650
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 651
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 652
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 653
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 654
   },
   {
     "games_played": 80,
     "amount_won": 35,
-    "ratio": 0.4375
+    "ratio": 0.4375,
+	"id": 655
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 656
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 657
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 658
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 659
   },
   {
     "games_played": 120,
     "amount_won": 55,
-    "ratio": 0.45833334
+    "ratio": 0.45833334,
+	"id": 660
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 661
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 662
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 663
   },
   {
     "games_played": 74,
     "amount_won": 32,
-    "ratio": 0.43243244
+    "ratio": 0.43243244,
+	"id": 664
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 665
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 666
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 667
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 668
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 669
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 670
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 671
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 672
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 673
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 674
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 675
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 676
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 677
   },
   {
     "games_played": 106,
     "amount_won": 48,
-    "ratio": 0.4528302
+    "ratio": 0.4528302,
+	"id": 678
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 679
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 680
   },
   {
     "games_played": 98,
     "amount_won": 44,
-    "ratio": 0.4489796
+    "ratio": 0.4489796,
+	"id": 681
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 682
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 683
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 684
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 685
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 686
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 687
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 688
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 689
   },
   {
     "games_played": 84,
     "amount_won": 37,
-    "ratio": 0.44047618
+    "ratio": 0.44047618,
+	"id": 690
   },
   {
     "games_played": 88,
     "amount_won": 39,
-    "ratio": 0.4431818
+    "ratio": 0.4431818,
+	"id": 691
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 692
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 693
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 694
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 695
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 696
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 697
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 698
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 699
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 700
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 701
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 702
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 703
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 704
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 705
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 706
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 707
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 708
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 709
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 710
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 711
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 712
   },
   {
     "games_played": 108,
     "amount_won": 49,
-    "ratio": 0.4537037
+    "ratio": 0.4537037,
+	"id": 713
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 714
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 715
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 716
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 717
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 718
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 719
   },
   {
     "games_played": 96,
     "amount_won": 43,
-    "ratio": 0.44791666
+    "ratio": 0.44791666,
+	"id": 720
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 721
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 722
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 723
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 724
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 725
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 726
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 727
   },
   {
     "games_played": 112,
     "amount_won": 51,
-    "ratio": 0.45535713
+    "ratio": 0.45535713,
+	"id": 728
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 729
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 730
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 731
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 732
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 733
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 734
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 735
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 736
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 737
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 738
   },
   {
     "games_played": 98,
     "amount_won": 44,
-    "ratio": 0.4489796
+    "ratio": 0.4489796,
+	"id": 739
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 740
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 741
   },
   {
     "games_played": 110,
     "amount_won": 50,
-    "ratio": 0.45454547
+    "ratio": 0.45454547,
+	"id": 742
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 743
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 744
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 745
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 746
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 747
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 748
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 749
   },
   {
     "games_played": 98,
     "amount_won": 44,
-    "ratio": 0.4489796
+    "ratio": 0.4489796,
+	"id": 750
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 751
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 752
   },
   {
     "games_played": 96,
     "amount_won": 43,
-    "ratio": 0.44791666
+    "ratio": 0.44791666,
+	"id": 753
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 754
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 755
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 756
   },
   {
     "games_played": 96,
     "amount_won": 43,
-    "ratio": 0.44791666
+    "ratio": 0.44791666,
+	"id": 757
   },
   {
     "games_played": 80,
     "amount_won": 35,
-    "ratio": 0.4375
+    "ratio": 0.4375,
+	"id": 758
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 759
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 760
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 761
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 762
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 763
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 764
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 765
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 766
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 767
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 768
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 769
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 770
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 771
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 772
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 773
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 774
   },
   {
     "games_played": 78,
     "amount_won": 34,
-    "ratio": 0.43589744
+    "ratio": 0.43589744,
+	"id": 775
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 776
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 777
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 778
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 779
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 780
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 781
   },
   {
     "games_played": 78,
     "amount_won": 34,
-    "ratio": 0.43589744
+    "ratio": 0.43589744,
+	"id": 782
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 783
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 784
   },
   {
     "games_played": 64,
     "amount_won": 27,
-    "ratio": 0.421875
+    "ratio": 0.421875,
+	"id": 785
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 786
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 787
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 788
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 789
   },
   {
     "games_played": 10,
     "amount_won": 0,
-    "ratio": 0.0
+    "ratio": 0.0,
+	"id": 790
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 791
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 792
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 793
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 794
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 795
   },
   {
     "games_played": 108,
     "amount_won": 49,
-    "ratio": 0.4537037
+    "ratio": 0.4537037,
+	"id": 796
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 797
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 798
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 799
   },
   {
     "games_played": 78,
     "amount_won": 34,
-    "ratio": 0.43589744
+    "ratio": 0.43589744,
+	"id": 800
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 801
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 802
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 803
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 804
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 805
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 806
   },
   {
     "games_played": 80,
     "amount_won": 35,
-    "ratio": 0.4375
+    "ratio": 0.4375,
+	"id": 807
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 808
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 809
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 810
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 811
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 812
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 813
   },
   {
     "games_played": 128,
     "amount_won": 59,
-    "ratio": 0.4609375
+    "ratio": 0.4609375,
+	"id": 814
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 815
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 816
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 817
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 818
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 819
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 820
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 821
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 822
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 823
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 824
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 825
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 826
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 827
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 828
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 829
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 830
   },
   {
     "games_played": 122,
     "amount_won": 56,
-    "ratio": 0.45901638
+    "ratio": 0.45901638,
+	"id": 831
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 832
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 833
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 834
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 835
   },
   {
     "games_played": 104,
     "amount_won": 47,
-    "ratio": 0.45192307
+    "ratio": 0.45192307,
+	"id": 836
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 837
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 838
   },
   {
     "games_played": 176,
     "amount_won": 83,
-    "ratio": 0.4715909
+    "ratio": 0.4715909,
+	"id": 839
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 840
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 841
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 842
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 843
   },
   {
     "games_played": 156,
     "amount_won": 73,
-    "ratio": 0.4679487
+    "ratio": 0.4679487,
+	"id": 844
   },
   {
     "games_played": 116,
     "amount_won": 53,
-    "ratio": 0.45689654
+    "ratio": 0.45689654,
+	"id": 845
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 846
   },
   {
     "games_played": 198,
     "amount_won": 94,
-    "ratio": 0.47474748
+    "ratio": 0.47474748,
+	"id": 847
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 848
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 849
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 850
   },
   {
     "games_played": 74,
     "amount_won": 32,
-    "ratio": 0.43243244
+    "ratio": 0.43243244,
+	"id": 851
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 852
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 853
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 854
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 855
   },
   {
     "games_played": 162,
     "amount_won": 76,
-    "ratio": 0.4691358
+    "ratio": 0.4691358,
+	"id": 856
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 857
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 858
   },
   {
     "games_played": 134,
     "amount_won": 62,
-    "ratio": 0.46268657
+    "ratio": 0.46268657,
+	"id": 859
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 860
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 861
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 862
   },
   {
     "games_played": 78,
     "amount_won": 34,
-    "ratio": 0.43589744
+    "ratio": 0.43589744,
+	"id": 863
   },
   {
     "games_played": 94,
     "amount_won": 42,
-    "ratio": 0.44680852
+    "ratio": 0.44680852,
+	"id": 864
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 865
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 866
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 867
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 868
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 869
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 870
   },
   {
     "games_played": 56,
     "amount_won": 23,
-    "ratio": 0.4107143
+    "ratio": 0.4107143,
+	"id": 871
   },
   {
     "games_played": 114,
     "amount_won": 52,
-    "ratio": 0.45614034
+    "ratio": 0.45614034,
+	"id": 872
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 873
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 874
   },
   {
     "games_played": 130,
     "amount_won": 60,
-    "ratio": 0.46153846
+    "ratio": 0.46153846,
+	"id": 875
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 876
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 877
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 878
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 879
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 880
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 881
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 882
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 883
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 884
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 885
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 886
   },
   {
     "games_played": 100,
     "amount_won": 45,
-    "ratio": 0.45
+    "ratio": 0.45,
+	"id": 887
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 888
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 889
   },
   {
     "games_played": 12,
     "amount_won": 1,
-    "ratio": 0.083333336
+    "ratio": 0.083333336,
+	"id": 890
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 891
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 892
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 893
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 894
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 895
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 896
   },
   {
     "games_played": 94,
     "amount_won": 42,
-    "ratio": 0.44680852
+    "ratio": 0.44680852,
+	"id": 897
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 898
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 899
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 900
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 901
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 902
   },
   {
     "games_played": 74,
     "amount_won": 32,
-    "ratio": 0.43243244
+    "ratio": 0.43243244,
+	"id": 903
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 904
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 905
   },
   {
     "games_played": 206,
     "amount_won": 98,
-    "ratio": 0.47572815
+    "ratio": 0.47572815,
+	"id": 906
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 907
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 908
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 909
   },
   {
     "games_played": 102,
     "amount_won": 46,
-    "ratio": 0.4509804
+    "ratio": 0.4509804,
+	"id": 910
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 911
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 912
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 913
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 914
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 915
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 916
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 917
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 918
   },
   {
     "games_played": 132,
     "amount_won": 61,
-    "ratio": 0.46212122
+    "ratio": 0.46212122,
+	"id": 919
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 920
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 921
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 922
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 923
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 924
   },
   {
     "games_played": 46,
     "amount_won": 18,
-    "ratio": 0.39130434
+    "ratio": 0.39130434,
+	"id": 925
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 926
   },
   {
     "games_played": 60,
     "amount_won": 25,
-    "ratio": 0.41666666
+    "ratio": 0.41666666,
+	"id": 927
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 928
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 929
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 930
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 931
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 932
   },
   {
     "games_played": 128,
     "amount_won": 59,
-    "ratio": 0.4609375
+    "ratio": 0.4609375,
+	"id": 933
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 934
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 935
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 936
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 937
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 938
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 939
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 940
   },
   {
     "games_played": 58,
     "amount_won": 24,
-    "ratio": 0.41379312
+    "ratio": 0.41379312,
+	"id": 941
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 942
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 943
   },
   {
     "games_played": 72,
     "amount_won": 31,
-    "ratio": 0.43055555
+    "ratio": 0.43055555,
+	"id": 944
   },
   {
     "games_played": 30,
     "amount_won": 10,
-    "ratio": 0.33333334
+    "ratio": 0.33333334,
+	"id": 945
   },
   {
     "games_played": 26,
     "amount_won": 8,
-    "ratio": 0.30769232
+    "ratio": 0.30769232,
+	"id": 946
   },
   {
     "games_played": 48,
     "amount_won": 19,
-    "ratio": 0.39583334
+    "ratio": 0.39583334,
+	"id": 947
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 948
   },
   {
     "games_played": 82,
     "amount_won": 36,
-    "ratio": 0.4390244
+    "ratio": 0.4390244,
+	"id": 949
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 950
   },
   {
     "games_played": 98,
     "amount_won": 44,
-    "ratio": 0.4489796
+    "ratio": 0.4489796,
+	"id": 951
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 952
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 953
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 954
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 955
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 956
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 957
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 958
   },
   {
     "games_played": 24,
     "amount_won": 7,
-    "ratio": 0.29166666
+    "ratio": 0.29166666,
+	"id": 959
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 960
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 961
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 962
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 963
   },
   {
     "games_played": 154,
     "amount_won": 72,
-    "ratio": 0.46753246
+    "ratio": 0.46753246,
+	"id": 964
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 965
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 966
   },
   {
     "games_played": 66,
     "amount_won": 28,
-    "ratio": 0.42424244
+    "ratio": 0.42424244,
+	"id": 967
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 968
   },
   {
     "games_played": 70,
     "amount_won": 30,
-    "ratio": 0.42857143
+    "ratio": 0.42857143,
+	"id": 969
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 970
   },
   {
     "games_played": 52,
     "amount_won": 21,
-    "ratio": 0.40384614
+    "ratio": 0.40384614,
+	"id": 971
   },
   {
     "games_played": 94,
     "amount_won": 42,
-    "ratio": 0.44680852
+    "ratio": 0.44680852,
+	"id": 972
   },
   {
     "games_played": 28,
     "amount_won": 9,
-    "ratio": 0.32142857
+    "ratio": 0.32142857,
+	"id": 973
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 974
   },
   {
     "games_played": 62,
     "amount_won": 26,
-    "ratio": 0.41935483
+    "ratio": 0.41935483,
+	"id": 975
   },
   {
     "games_played": 92,
     "amount_won": 41,
-    "ratio": 0.4456522
+    "ratio": 0.4456522,
+	"id": 976
   },
   {
     "games_played": 22,
     "amount_won": 6,
-    "ratio": 0.27272728
+    "ratio": 0.27272728,
+	"id": 977
   },
   {
     "games_played": 14,
     "amount_won": 2,
-    "ratio": 0.14285715
+    "ratio": 0.14285715,
+	"id": 978
   },
   {
     "games_played": 18,
     "amount_won": 4,
-    "ratio": 0.22222222
+    "ratio": 0.22222222,
+	"id": 979
   },
   {
     "games_played": 50,
     "amount_won": 20,
-    "ratio": 0.4
+    "ratio": 0.4,
+	"id": 980
   },
   {
     "games_played": 44,
     "amount_won": 17,
-    "ratio": 0.38636363
+    "ratio": 0.38636363,
+	"id": 981
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 982
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 983
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 984
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 985
   },
   {
     "games_played": 54,
     "amount_won": 22,
-    "ratio": 0.4074074
+    "ratio": 0.4074074,
+	"id": 986
   },
   {
     "games_played": 86,
     "amount_won": 38,
-    "ratio": 0.44186047
+    "ratio": 0.44186047,
+	"id": 987
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 988
   },
   {
     "games_played": 20,
     "amount_won": 5,
-    "ratio": 0.25
+    "ratio": 0.25,
+	"id": 989
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 990
   },
   {
     "games_played": 34,
     "amount_won": 12,
-    "ratio": 0.3529412
+    "ratio": 0.3529412,
+	"id": 991
   },
   {
     "games_played": 32,
     "amount_won": 11,
-    "ratio": 0.34375
+    "ratio": 0.34375,
+	"id": 992
   },
   {
     "games_played": 36,
     "amount_won": 13,
-    "ratio": 0.3611111
+    "ratio": 0.3611111,
+	"id": 993
   },
   {
     "games_played": 42,
     "amount_won": 16,
-    "ratio": 0.3809524
+    "ratio": 0.3809524,
+	"id": 994
   },
   {
     "games_played": 76,
     "amount_won": 33,
-    "ratio": 0.43421054
+    "ratio": 0.43421054,
+	"id": 995
   },
   {
     "games_played": 38,
     "amount_won": 14,
-    "ratio": 0.36842105
+    "ratio": 0.36842105,
+	"id": 996
   },
   {
     "games_played": 68,
     "amount_won": 29,
-    "ratio": 0.42647058
+    "ratio": 0.42647058,
+	"id": 997
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 998
   },
   {
     "games_played": 16,
     "amount_won": 3,
-    "ratio": 0.1875
+    "ratio": 0.1875,
+	"id": 999
   },
   {
     "games_played": 40,
     "amount_won": 15,
-    "ratio": 0.375
+    "ratio": 0.375,
+	"id": 1000
   }
 ]
