@@ -96,4 +96,6 @@ const totalGamesPlayed = data.reduce((acc, d) => acc + d.gamesPlayed, 0);
 const totalGamesWon = data.reduce((acc, d) => acc + d.gamesWon, 0);
 const averageWinRate = (totalGamesWon / totalGamesPlayed) * 100;
 console.log(`Average win rate: ${averageWinRate}%`);
-fs.writeFileSync("moreData.json", JSON.stringify(data));
+// get from input when running the script
+const input = process.argv[2];
+fs.writeFileSync(input || "moreData.json", JSON.stringify(data));
