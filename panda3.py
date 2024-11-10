@@ -167,7 +167,7 @@
 import json
 import matplotlib.pyplot as plt
 import numpy as np
-from scipy.stats import lognorm
+from scipy.stats import lognorm, poisson
 
 # Load the data from the JSON file
 with open('evenMoreData.json') as f:
@@ -188,7 +188,13 @@ bin_centers = (bins[:-1] + bins[1:]) / 2
 shape, loc, scale = lognorm.fit(games_played, floc=0)  # Fit log-normal with location fixed at 0
 lognorm_dist = lognorm.pdf(bin_centers, shape, loc=loc, scale=scale)
 lognorm_scaled = lognorm_dist * (hist_values.max() / lognorm_dist.max())
-plt.plot(bin_centers, lognorm_scaled, color='purple', linestyle='--', linewidth=2, label=f"Log-normal\n(shape={shape:.2f})")
+# plt.plot(bin_centers, lognorm_scaled, color='purple', linestyle='--', linewidth=2, label=f"Log-normal\n(shape={shape:.2f})")
+
+x_values = np.arange(10, max(games_played) + 1)
+lambda_poisson = np.mean(games_played)
+poisson_pmf_values = poisson.pmf(x_values, lambda_poisson)
+scaled_poisson_pmf_values = poisson_pmf_values * (hist_values.max() / poisson_pmf_values.max())
+plt.plot(x_values, scaled_poisson_pmf_values, color='green', linestyle='--', linewidth=2, label=f"Poisson\n(λ={lambda_poisson:.2f})")
 
 # Annotate the peak frequency
 peak_frequency = hist_values.max()
